@@ -1,0 +1,38 @@
+header{
+    background-color: #222B45;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main>section{
+    background-color:#161D30;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    width: 500px;
+}
+img{
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+}
+p{
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    display: flex;
+}
+h1{
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+}
+{
+    display: flex;
+}
